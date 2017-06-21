@@ -8,6 +8,7 @@
     tools:context="com.example.huy.camera.MainActivity"
     tools:showIn="@layout/activity_main">
     <com.github.siyamed.shapeimageview.CircularImageView
+        android:id="@+id/picture"
         android:layout_width="@dimen/_150sdp"
         android:layout_height="@dimen/_150sdp"
         android:src="@drawable/profile"
